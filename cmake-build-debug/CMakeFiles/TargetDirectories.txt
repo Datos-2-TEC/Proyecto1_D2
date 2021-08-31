@@ -1,0 +1,3 @@
+/home/maxgm/CLionProjects/Proyecto1-D2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maxgm/CLionProjects/Proyecto1-D2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maxgm/CLionProjects/Proyecto1-D2/cmake-build-debug/CMakeFiles/Proyecto1_D2.dir
